@@ -1,0 +1,74 @@
+.lun-mian{
+	position: relative;
+}
+
+.lun-mian>div{
+
+}
+
+.lb{
+	width: 65px;
+	height: 13px;
+	border-radius: 50%;
+	background: rgba(255,255,255,.3);
+	position: absolute;
+	left: 50%;
+	bottom: 14px;
+	margin-left:-32px;
+}
+
+.lbot{
+	float: left;
+	width: 9px;
+	height: 9px;
+	margin: 2px;
+	border-radius: 50%;
+	background: #B7B7B7;
+}
+
+.lun-cg{
+	display: none;
+    text-align: center;
+    height: 36px;
+    width: 24px;
+    line-height: 36px;
+    color: #fff;
+	position: absolute;
+    top: 50%;
+    margin-top: -18px;
+    background: rgba(0,0,0,.3);
+}
+
+.lun-cg:hover{
+	background: rgba(0,0,0,.5);
+}
+
+.bgh{
+	background: #f40;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
